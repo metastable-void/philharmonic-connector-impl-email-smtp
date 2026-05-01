@@ -13,6 +13,10 @@ Implementation pending. See the
 [Philharmonic workspace ROADMAP](https://github.com/metastable-void/philharmonic-workspace/blob/main/ROADMAP.md)
 for the phase that populates this crate.
 
+## [0.0.1]
+
+- Added crate-level doc comment.
+
 ## [0.0.0]
 
 Name reservation on crates.io. No functional content yet.
