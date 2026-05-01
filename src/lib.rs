@@ -1,1 +1,1 @@
-// philharmonic-connector-impl-email-smtp: placeholder
+//! Placeholder for the SMTP email connector implementation.
