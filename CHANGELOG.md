@@ -9,9 +9,19 @@ this crate adheres to
 
 ## [Unreleased]
 
-Implementation pending. See the
-[Philharmonic workspace ROADMAP](https://github.com/metastable-void/philharmonic-workspace/blob/main/ROADMAP.md)
-for the phase that populates this crate.
+No unreleased changes.
+
+## [0.1.0] - 2026-05-18
+
+- Added the first substantive `email_smtp` connector
+  implementation.
+- Added SMTP submission over `lettre` with rustls, aws-lc-rs,
+  webpki-roots, required AUTH credentials, port-25 rejection,
+  explicit connection-mode policy, and four-valued TLS
+  strictness.
+- Added minimal MIME envelope fixing and tests for the locked
+  connection-mode, TLS-strictness, config-validation, and MIME
+  normalization matrices.
 
 ## [0.0.1]
 
